@@ -11,9 +11,12 @@ npm install @material-ui/core
 npm install axios --save
 npm install react-bootstrap bootstrap
 ```
-## Demo Snapshots 
+## Demo Snapshot List Page
 
 ![alt text](https://github.com/ch-hassansaeed/react_todo_tasks_app/blob/main/demo_snapshot1.png)
+
+## Demo Snapshot Detail Page
+
 ![alt text](https://github.com/ch-hassansaeed/react_todo_tasks_app/blob/main/demo_snapshot2.png)
 
 
